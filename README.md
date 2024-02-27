@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @med6ba ..
+- 👀 I’m interested in web developpement ..
+- 🌱 I’m currently learning front-end dev ..
+- 😄 Pronouns: he/ him ..
+- ⚡ Fun fact: i'm 18 years old ..
