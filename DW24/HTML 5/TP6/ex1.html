@@ -1,0 +1,64 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Mon premier formulaire</title>
+</head>
+<body>
+	<center><h1>Mon premier formulaire</h1></center>
+	<form>
+		<fieldset>
+			<legend>Mes données personnelles</legend>
+			Nom:(*)
+			<label><input type="text" placeholder="Entrer votre nom" required></label>
+			<br>
+			<br>
+			Prénom:(*)
+			<label><input type="text" placeholder="Entrer votre Prénom" required></label>
+			<br>
+			<br>
+			Date de naissance:
+			<label><input type="date"></label>
+			<br>			
+			<br>
+				<fieldset>
+					<legend>Lieu de naissance</legend>
+					<label><input type="radio" name="ville">Tétouan</label>
+					<label><input type="radio" name="ville">Tanger</label>
+				</fieldset>
+			<br>
+			Adresse:<textarea rows="8" cols="50"></textarea>
+			<br>
+			<br>
+			Code postale:
+			<label><input type="number" min="90000" max="91000" step="10"></label>
+			<br>
+			<br>
+			Semestre:
+			<select>
+				<option value="S1">S1</option>
+				<option value="S2">S2</option>
+				<option value="S3">S3</option>
+				<option value="S4">S4</option>
+			</select>
+			<br>
+			<br>
+			Niveau en HTML:
+			<label>1<input type="range" min="1" max="10" step="1">10</label>
+			<br>
+			<br>
+				<fieldset>
+					<legend>Connaissances en HTML</legend>
+					<label><input type="checkbox" name="connaissances">HTML</label>
+					<label><input type="checkbox" name="connaissances">CSS</label>
+					<label><input type="checkbox" name="connaissances">Formulaires</label>
+					<label><input type="checkbox" name="connaissances">Javascript</label>
+				</fieldset>
+			<br>
+			Les champs marqués par une étoile (*) sont obligatoires
+			<br>
+			<br>
+			<input type="submit" value="Envoyer"><input type="reset" value="Reinitialiser">
+		</fieldset>
+    </form>
+</body>
+</html>

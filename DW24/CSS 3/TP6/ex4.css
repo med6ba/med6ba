@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	width: 100%;
+	text-align: center;
+	background-color: lightgreen;
+	line-height: 70px;
+}
+section{
+	width: 80%;
+	text-align: center;
+	background-color: lightgrey;
+	line-height: 500px;
+}
+footer{
+	width: 100%;
+	text-align: center;
+	background-color: lightblue;
+	line-height: 70px;
+}
+nav{
+	background-color: #333;
+	text-align: center;
+}
+nav ul li{
+	display: inline;
+	line-height: 40px;
+}
+nav ul li a{
+	text-decoration: none;
+	color: white;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+nav ul li a:hover{
+	text-decoration: underline;
+}
+aside{
+	background-color: lightpink;
+	line-height: 500px;
+	width: 20%;
+	text-align: center;
+}
+main{
+	display: flex;
+}
+article{
+	background-color: #333;
+	text-align: center;
+	color: white;
+	border: 1px solid black;
+	border-radius: 5px;
+	width: 80%;
+	line-height: 120px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	box-shadow: 5px 5px 20px gray;
+}
+.art34{
+	width: 40%;
+	display: flex;
+	margin: auto;
+}
+
+
+
+
+
+
+
+/*
+diplay: inline;  =====>  for texte
+display: flex;  =====>   for containers
+*/

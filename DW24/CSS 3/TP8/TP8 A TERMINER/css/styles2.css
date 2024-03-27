@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+@font-face{
+	font-family: "lakers";
+	src: url("../polices/Lakers Regular.otf");
+}
+header{
+	background: green;
+	font-family: 'lakers';
+	font-size: 20pt;
+	color: white;
+	padding: 20px;
+	line-height: 70px;
+}
+.avatar img{
+	width: 100px;
+}
+.avatar{
+	float: right;
+}
+.avatar2 img{
+	width: 250px;
+	opacity: 0.5;
+}
+.avatar2{
+	bottom: 0;
+	position: fixed;
+}
+aside{
+	background: lightgreen;
+	width: 15%;
+	margin: auto;
+	margin-top: 20px;
+	border-top: 10px solid green;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+	transition: 0.5s;
+}
+aside ul{
+	list-style: none;
+}
+aside ul li{
+	line-height: 40px;
+}
+aside ul li a{
+	font-family: 'arial';
+	font-size: 12pt;
+	color: green;
+	text-decoration: none;
+	display: inline;
+	padding: 10px;
+}
+aside ul li a:hover{
+	color: white;
+	background: green;
+	transition: 0.5s;
+}
+.conteneur{
+	padding: 30px;
+}
+section{
+	width: 80%;
+	margin: auto;
+	margin-top: 40px;
+	border: 1px solid green;
+	border-radius: 10px;
+	box-shadow: 10px 10px 200px green;
+	position: relative;
+	height: 600px;
+}
+main{
+	display: flex;
+}
+label{
+	font-family: arial;
+	font-size: 12pt;
+}
+input, select{
+	width: 100%;
+	border: 1px solid green;
+	border-radius: 10px;
+	line-height: 30px;
+	color: green;
+	font-size: 20px;
+	padding: 5px;
+	background: transparent;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 0;
+	margin-right: 0;
+}
+input[type=date], [type=time]{
+	color: green;
+	width: 300px;
+}
+input[type=submit]{
+	color: green;
+	width: 200px;
+	color: green;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	position: absolute;
+}
+input:hover{
+	background: green;
+	color: white;
+}
+section h1{
+	text-align: center;
+	font-family: arial;
+	font-size: 40;
+	color: green;
+	text-shadow: 2px 2px 8px green;
+}

@@ -1,0 +1,19 @@
+===> variable: case mémoire (une partie du mémoire)
+===> unité de mesure du mémoire: octet
+===> example:
+		*k.octet
+		*m.octet
+		*g.octet
+===> le role du mémoire: stocker les informations pour l'utiliser
+===> il y a deux mémoire: mémoire vive - mémoire de masse
+===> opérations de comparaisons :
+		égale: ==
+		supérieure ou égal: >=
+		inférieure ou égal: <=
+		différent: !=
+===> opérations logique :
+		et: &&
+		ou: ||
+===> le modéle du programmation:
+		input (donnés) ------> traitement --------> output (résultat)
+===> % Le reste de la division

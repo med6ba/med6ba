@@ -1,0 +1,57 @@
+@font-face{
+	font-family: lakers;
+	src:url("polices/Lakers Textured.otf");
+}
+h1{
+	font-family: lakers;
+}
+body{
+	background: url("images/bg.jpg");
+}
+.texte{
+	width: 150px;
+	text-align: justify;
+	padding: 10px;
+	background-color: black;
+	opacity: 0.75;
+	color:green;
+	margin-left:  50px;
+	border-top:10px solid green;
+	transition: .5s;
+}
+img{
+	width: 250px;
+}
+.divdelhi, .divgoa, .divbombay{
+	position: absolute;
+	top:0;
+	right:0;
+	text-align: center;
+	background-color: white;
+	border: 10px solid white;
+	font-family: lakers;
+	font-size: 20pt;
+	transition: 1s;
+}
+.divdelhi{
+	margin-top : 50px;
+	margin-right: 50px;
+	transform: rotate(10deg);
+}
+.divgoa{
+	margin-top : 300px;
+	margin-right: 50px;
+	transform: rotate(-10deg);
+}
+.divbombay{
+	margin-right: 350px;
+	transform: rotate(-20deg);
+}
+.texte:hover{
+	width: 400px;
+	transition: 2s;
+}
+.divdelhi:hover, .divgoa:hover, .divbombay:hover{
+	transform: rotate(0deg);
+	transition: 1s;
+}

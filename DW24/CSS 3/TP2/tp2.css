@@ -1,0 +1,42 @@
+body{
+	/*background-color: lightgray;*/
+	background-image: url(images/bg.jpg);
+	width: 600px;
+	margin: auto;
+}
+h2 {
+	color: blue;
+	background: yellow;
+	width: 100%;
+	text-align: center;
+}
+
+h3 {
+	color: orange;
+	margin-left: 50px;
+}
+
+p {
+	font-family: verdana;
+	color: gray;
+	font-size: 0.9em;
+	margin-left: 60px;
+}
+.ex3{
+	background: orange;
+	padding: 20px;
+	color: white;
+	font-style: italic;
+}
+
+img{
+	width: 40px;
+}
+
+.img1{
+	float: left;
+}
+
+.img2{
+	float: right;
+}

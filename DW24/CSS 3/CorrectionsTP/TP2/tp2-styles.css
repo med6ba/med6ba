@@ -1,0 +1,39 @@
+h2{
+	color:blue;
+	background: yellow;
+	width: 100%;
+	text-align: center;
+}
+h3{
+	color:orange;
+	margin-left: 50px;
+}
+p{
+	font-family: verdana;
+	color:gray;
+	font-size: 0.9em;
+	margin-left: 60px;
+}
+.ex3{
+	background: orange;
+	padding: 20px;
+	color: white;
+	font-style:italic;
+}
+img{
+	width: 40px;
+}
+.gauche{
+	float: left;
+}
+.droite{
+	float: right;
+}
+
+body{
+	/*background-color: green;*/
+	background-image: url("images/bg.jpg");
+	width: 600px;
+	margin-top: 20px;
+	margin: auto;
+}

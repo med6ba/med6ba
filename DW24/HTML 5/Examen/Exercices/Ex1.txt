@@ -1,0 +1,22 @@
+Guide de la programmation
+La programmation peut ouvrir les portes à de nombreuses possibilités créatives et professionnelles.
+
+HTML, CSS et JavaScript sont les fondements du développement Web.
+
+HTML 
+Langage de balisage utilisé pour créer la structure des pages web.
+CSS
+Langage de style utilisé pour présenter les documents HTML.
+Le terme CSS est crucial dans la conception web.
+"Tous le monde devrait apprendre à programme un ordinateur, parce que cela vous apprend à pense" - Steve Jobs
+HTML pour la structure
+CSS pour la présentation
+JavaScript pour l'interaction
+
+Introduction à la programmation
+Concepts avancés
+développement des projets réels
+
+Les langages de programmation comme Python et Java sont devenus essentiels
+
+Contactez-nous à : info@exemple.com

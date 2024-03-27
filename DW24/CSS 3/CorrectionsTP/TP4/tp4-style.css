@@ -1,0 +1,35 @@
+@font-face{
+	font-family: "bali";
+	src:url("polices/Smitta Bali dafont.ttf");
+}
+h1{
+	font-family: bali;
+	text-align: center;
+	background-color: pink;
+	border-top-left-radius: 100%;
+	border-bottom-right-radius: 100%;
+	opacity: 0.75;
+}
+body{
+	background: url("images/fleur.jpg") no-repeat center fixed, 
+	url("images/rose-fleur.jpg");
+
+}
+.texte{
+	width: 300px;
+	background-color: pink;
+	opacity: 0.80;
+	padding: 10px;
+	margin-left: 100px;
+	box-shadow: 10px 20px 100px 25px black;
+}
+.rose-rouge img{
+	width: 150px;
+}
+.rose-rouge{
+	position: fixed;
+	right: -40;
+	top: 0;
+	transform: rotate(-30deg);
+}
+

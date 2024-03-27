@@ -1,0 +1,110 @@
+*{
+	marge interne 0
+	marge extrerne 0
+}
+@font-face{
+	Ajouter la police Lakers Regular.otf sous le nom lakers
+}
+header{
+	L'arrière plane en green
+	Mettez le texte en police lakers
+	la taille 20pt;
+	Couleur du texte  blanc
+	marge interne gauche 20px 
+	hauteur de la ligne 70px
+}
+.avatar img{
+	Largeur de l'image du div avatar 100px
+}
+.avatar{
+	Mettez le div vers la droite en position flotante
+}
+.avatar2 img{
+	largeur de l'image du div avatar2 400px
+	Opacité 0.5
+}
+.avatar2{
+	Mettez le div avatar2 en bas de la page en position fixe
+}
+aside{
+	Arrière plan en vert claire 
+	largeur 15%;
+	marge externe auto
+	marge de haut 20px
+	botdure du haut  10px en green;
+	bordure avec coin courbé à gauche et à droite de 8pc
+	la transition en demi seconde
+}
+aside ul{
+	masqué les puces
+}
+aside ul li{
+	hauteur de la ligne 40px
+}
+aside ul li a{
+	police de texte arial
+	taille 12pt
+	couleur verte
+	masqué le soulignement
+	mettez le lien en forme de block
+	marge interne de gauche 10px
+}
+aside ul li a:hover{
+	couleur de texte en blanc
+	arrière plan en green
+	la transition en demi seconde
+}
+.conteneur{
+	marge interne 30px;
+}
+section{
+	Largeur 80%
+	marge externe auto
+	marge de haut 40px;
+	bordure de 1px en green
+	coin de la bordure en 10px
+	ombre de la section  10px 10px 200px green
+	postion en relative
+	hauteur de la section 600px
+}
+main{
+	mettez le aside et la section au même niveau
+}
+label{
+	police de texte arial
+	taille 12pt
+}
+input, select{
+	largeur 100%
+	bordure de 1px en green
+	coin de la bordure en 10px
+	hauteur de la ligne 30px
+	couleur verte
+	taille 20px
+	marge interne 5px;
+	arrière plan transparent;
+	marge externe haut et bas 20 px gauche et droite 0px
+}
+input[type=date], [type=time]{
+	Couleur verte
+	largeur 300px
+}
+input[type=submit]{
+	arrière plan green
+	largeur 200px
+	couleur du texte white
+	écarté de la droite de 10px;
+	écarté du bas 10px;
+	position en absolut
+}
+input:hover{
+	arrière plan green
+	couleur du texte white
+}
+section h1{
+	Texte au centre
+	police de texte arial
+	taille 40
+	couleur en green
+	l'ombre du texte 2px 2px 8px green
+}

@@ -1,0 +1,18 @@
+h1{
+	color:blue; 
+	background: yellow; 
+	text-align: center;
+	font-family: arial;
+	font-size:16px;
+}
+p{
+	text-align: justify;
+	font-family: candy;
+	font-size: 14pt;
+}
+.vert{
+	color:green;
+}
+.bleu{
+	color:blue;
+}

@@ -1,0 +1,290 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@font-face {
+  font-family: bw;
+  src: url(fonts/bw.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+  /*user-select: none;*/
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+header {
+  width: 100%;
+  position: fixed;
+  z-index: 999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 200px;
+  background-color: #afbfcc;
+}
+.logo img {
+  width: 60px;
+  margin-top: 10px;
+  transition: 0.3s;
+}
+.logo img:hover {
+  transform: scale(1.2);
+  transition: 0.3s;
+}
+.menu {
+  display: flex;
+}
+.menu a {
+  color: #0a1830;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: 700;
+  padding-left: 30px;
+}
+.menu a p {
+  transition: 0.3s;
+}
+.menu a p:hover {
+  transform: scale(0.95);
+  transition: 0.3s;
+}
+section {
+  padding: 200px;
+}
+.main {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background: url(images/xunbt.png) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #89adc5;
+}
+.h23 {
+  margin-top: 80px;
+}
+.main h2 {
+  font-size: 7em;
+  font-family: bw;
+  color: #0a1830;
+}
+.main h3 {
+  color: #0a1830;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.bio {
+  width: 150px;
+  margin-right: -22px;
+  background-color: #afbfcc;
+  border: 5px solid #0a1830;
+  border-radius: 20px;
+  box-shadow: 0 5px 25px rgb(0, 18, 51);
+  transition: 0.3s all ease;
+}
+.bio:hover {
+  transform: scale(1.02);
+  transition: 0.3s all ease;
+}
+.main-btn {
+  color: #afbfcc;
+  background-color: #0a1830;
+  text-decoration: none;
+  font-size: 1.3em;
+  font-weight: 600;
+  display: inline-block;
+  padding: 0.9375em 2.1875em;
+  border-radius: 15px;
+  margin-top: 60px;
+  margin-left: 160px;
+  margin-bottom: 20px;
+  transition: 0.4s ease all;
+}
+.main-btn:hover {
+  transform: scale(1.02);
+  transition: 0.4s ease all;
+}
+.social-icons {
+  margin-bottom: -120px;
+  margin-top: 10px;
+}
+.social-icons a {
+  color: #0a1830;
+  font-size: 2em;
+}
+.social-icons a i {
+  transition: 0.3s ease all;
+  background-color: #afbfcc;
+  border: transparent;
+  border: 4px solid #0a1830;
+  border-radius: 50%;
+  padding: 8px;
+  margin: 5px;
+}
+.social-icons a i:hover {
+  transform: scale(1.1);
+  transition: 0.3s ease all;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  color: #0a1830;
+  font-size: 4em;
+  font-weight: 700;
+  margin-bottom: -15px;
+}
+.cards {
+  background-color: #afbfcc;
+  min-height: 100vh;
+}
+.cards h2 {
+  margin-top: -15px;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex: 3 2;
+  flex-wrap: wrap;
+  padding-top: 60px;
+}
+a {
+  text-decoration: none;
+}
+a .card {
+  background-color: #bed3e6;
+  width: 21.25em;
+  box-shadow: 0 10px 25px rgb(0, 36, 53);
+  border: 5px double #0a1830;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 25px;
+  transition: 0.5s all ease;
+}
+a .card:hover {
+  transform: scale(1.05);
+  transition: 0.5s all ease;
+}
+a .icon {
+  color: #0a1830;
+  font-size: 4em;
+  text-align: center;
+}
+a .info {
+  text-align: center;
+}
+a .info h3 {
+  color: #0a1830;
+  font-size: 1.5em;
+  font-weight: 700;
+  margin: 10px;
+}
+main {
+  min-height: 100vh;
+  display: inline;
+}
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: url(images/xunbt.png) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #89adc5;
+  padding: 150px;
+}
+.contact h2 {
+  font-family: Poppins;
+  color: #0a1830;
+  margin: 40px;
+  margin-top: -60px;
+}
+iframe {
+  border: 4px solid #0a1830;
+  border-radius: 18px;
+  margin: 10px 10px;
+}
+.contact a {
+  color: #0a1830;
+}
+.contact i {
+  color: #1b1e23;
+  transition: 0.1s;
+}
+.contact i:hover {
+  transform: scale(1.3);
+  transition: 0.1s;
+}
+main footer {
+  background-color: #afbfcc;
+}
+main footer p {
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: 700;
+  padding: 15px;
+  color: #0a1830;
+}
+main footer p a {
+  text-decoration: underline;
+  color: #0a1830;
+}
+form {
+  background-color: #afbfcc;
+  padding: 30px 30px;
+  border: 5px solid #0a1830;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 700px;
+  margin-bottom: 20px;
+  box-shadow: 0 5px 25px rgb(0, 18, 51);
+}
+label {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px;
+}
+textarea {
+  outline: none;
+  padding: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  resize: none;
+  border: 2px solid #0a1830;
+  width: 300px;
+  height: 290px;
+  margin-right: 10px;
+  border-radius: 8px;
+}
+.grid1 {
+  margin-right: -300px;
+}
+input {
+  border: 2px solid #0a1830;
+  outline: none;
+  width: 300px;
+  height: 50px;
+  padding: 15px;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 8px;
+}
+.submit {
+  cursor: pointer;
+  margin-top: 30px;
+  width: 635px;
+  padding: 0px 15px;
+  font-size: 20px;
+  background-color: #0a1830;
+  color: #afbfcc;
+  border-radius: 40px;
+}

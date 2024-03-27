@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	width: 100%;
+	text-align: center;
+	background-color: lightgreen;
+	line-height: 70px;
+}
+section{
+	width: 100%;
+	text-align: center;
+	background-color: lightgrey;
+	line-height: 500px;
+}
+footer{
+	width: 100%;
+	text-align: center;
+	background-color: lightblue;
+	line-height: 70px;
+}

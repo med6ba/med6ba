@@ -1,0 +1,73 @@
+@font-face{
+	font-family: "lakers";
+	src: url("polices/Lakers Textured.otf");
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(images/bg.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+header{
+	background: white;
+	text-align: center;
+	font-family: lakers;
+	font-size: 40px;
+	opacity: 0.75;
+	line-height: 80px;
+}
+nav{
+	background: #333;
+	border-left: 5px solid purple;
+}
+nav ul li, aside ul li{
+	list-style-type: none;
+	display: inline;
+}
+aside ul li{
+	list-style-type: none;
+}
+nav ul li a, aside ul li a{
+	padding: 20px;
+	color: black;
+	text-decoration: none;
+	font-family: arial;
+	display: block;
+	float: left;
+}
+nav ul li a:hover{
+	background: purple;
+	color: white;
+	transition: 0.5s;
+}
+nav ul li a:hover{
+	background: white;
+	color: purple;
+	transition: 0.5s;
+}
+.active{
+	color: white;
+	background-color: purple;
+}
+section{
+	width: 300px;
+	margin: 20px;
+	background: white;
+	padding: 10px;
+	opacity: .75;
+	border-top: 10px solid purple;
+}
+aside{
+	background: purple;
+	height: 300px;
+	width: 200px;
+	margin: 20px;
+	right: 0;
+	border: 1px solid gray;
+	opacity: .75;
+	transition: 1s;
+	position: fixed;
+}

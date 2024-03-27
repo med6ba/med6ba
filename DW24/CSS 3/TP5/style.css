@@ -1,0 +1,29 @@
+@font-face{
+	font-family: "lakers";
+	src: url("polices/Lakers Textured.otf");
+}
+
+body{
+	background: url(images/bg.jpg);
+}
+
+h1{
+	font-family: "lakers";
+	text-align: center;
+	color: green;
+}
+
+.texte{
+	width: 150px;
+	text-align: justify;
+	padding: 10px;
+	background: black;
+	opacity: 0.75;
+	color: green;
+	margin-left: 50px;
+	border-top: 10px solid green;
+}
+
+.img{
+	width: 250px;
+}

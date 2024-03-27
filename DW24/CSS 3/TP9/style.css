@@ -1,0 +1,152 @@
+@font-face {
+    font-family: 'lakers1';
+    src: url(polices/Lakers\ Regular.otf);
+}
+@font-face {
+    font-family: 'lakers2';
+    src: url(polices/Lakers\ Textured.otf);
+}
+@font-face {
+    font-family: 'nennas';
+    src: url(polices/NENNAS.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #d1d1d1;
+}
+header{
+    background-image: url(images/bg.jpg);
+	background-size: 100% ;
+}
+header nav{
+    background-color: #3f3f3f;
+    opacity: 0.85;
+    line-height: 40px;
+}
+header nav img{
+    width: 100px;
+    margin: 10px;
+    float: left;
+}
+header nav h1{
+    font-family: lakers1;
+    color: white;
+    font-size: 60px;
+    float: left;
+}
+header nav ul{
+    list-style-type: none;
+    color: gray;
+    text-align: end;
+    margin-top: 60px;
+    font-family: arial;
+    margin: auto;
+}
+header nav ul li{
+    color: #c9c9c9;
+    display: inline-block;
+    padding: 10px;
+}
+header nav ul li i{
+    padding: 4px;
+    margin: 8px;
+}
+header nav ul li:hover{
+    color: #00cfcf;
+}
+span{
+    padding-left: 8px;
+}
+.active{
+    color: #00cfcf;
+}
+.text1{
+    color: #00cfcf;
+    text-align: center;
+    font-family: lakers 1;
+    font-size: 100px;
+    line-height: 500px;
+    text-shadow: 3px 3px 8px black;
+}
+hr{
+    background-color: #00cfcf;
+    height: 4px;
+    border: none;
+}
+section{
+    background-color: #d1d1d1;
+}
+section .text2{
+    text-align: center;
+    font-family: lakers2;
+    color: #656565;
+    font-size: 50px;
+    padding-top: 20px;
+}
+main{
+    display: flex;
+}
+div{
+    padding: 19px;
+}
+section p{
+    text-align: justify;
+    width: 180px;
+    margin-left: 20px;
+   
+}
+section img{
+    width: 300px;
+    display: inline;
+    padding: 15px;
+}
+section .text3{
+    text-align: center;
+    font-family: lakers2;
+    color: #656565;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.s2{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 450px;
+    height: 100px;
+}
+section input{
+    border: 2px solid #00cfcf;
+    border-radius: 4px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: #f8f8f8;
+}
+textarea{
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    border: 2px solid #00cfcf;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+.btn{
+    color: black;
+    background-color: #00cfcf;
+    width: 200px;
+    transition: 0.2s;
+    border: none;
+    float: right;
+}
+.btn:hover{
+    background:#00a0a0;
+    transition: 0.2s;
+}
+footer{
+    background-color: #3f3f3f;
+    color: #9f9f9f;
+    text-align: center;
+    line-height: 60px;
+}

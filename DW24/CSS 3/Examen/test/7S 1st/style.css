@@ -1,0 +1,342 @@
+/*
+Colors:
+primary color:  #b0c8e2
+secondary color:  #2a3652
+hover color:   #3f6075
+*/
+@font-face {
+    font-family: pmedium;
+    src: url(fonts/pmedium.ttf);
+}
+@font-face {
+    font-family: pbold;
+    src: url(fonts/pbold.ttf);
+}
+@font-face {
+    font-family: wb;
+    src: url(fonts/wb.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+  scroll-behavior: smooth;
+}
+body{
+    background-color: #b0c8e2;
+}
+hr{
+    border: 3px solid #2a3652;
+}
+.header .navbar{
+    margin: 12px 12px;
+    padding: 12px 12px;
+}
+.header .navbar .logo a img{
+    width: 80px;
+    margin: 12px 12px;
+    padding: 12px 12px;
+    margin-top: -10px;
+    transition: 0.2s;
+}
+.header .navbar .logo a img:hover{
+    transform: scale(1.2);
+    transition: 0.2s;
+}
+.header .navbar .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header .navbar .menu{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.header .navbar .menu ul li{
+    display: inline;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+.header .navbar .menu ul li a{
+    color: #2a3652;
+    font-size: 20px;
+    transition: 0.2s;
+}
+.header .navbar .menu ul li a i{
+    transition: 0.2s;
+}
+.header .navbar .menu ul li a i:hover{
+    color: #3f6075;
+    transform: scale(0.95);
+    transition: 0.2s;
+}
+.header .navbar .menu ul li a span{
+    font-family: pmedium;
+}
+.s1{
+    background-color: #2a3652;
+}
+.s1 .img1{
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+}
+.s1 .content{
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.s1 h1{
+    color: #b0c8e2;
+    text-align: center;
+    font-family: wb;
+    font-size: 134.5px;
+}
+.s1 p{
+    color: #b0c8e2;
+    text-align: center;
+    font-family: pbold;
+    font-size: 32px;
+}
+.s1 .img2{
+    width: 20%;
+    margin-top: 40px;
+    margin-bottom: -120px;
+    background-color: #d0e2f9;
+    border-radius: 20%;
+    transition: 0.2s;
+}
+.s1 .img2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.s2 .h1{
+    color: #2a3652;
+    text-align: center;
+    font-family: wb;
+    font-size: 70px;
+}
+.s2 h1{
+    color: #323a44;
+    font-family: pbold;
+    font-size: 35px;
+    margin: 5px 5px;
+}
+.s2 p{
+    color: #2a3652;
+    font-family: pmedium;
+    font-size: 20px;
+    margin: 15px 15px;
+}
+.s2 .card{
+    margin: 40px 40px;
+    padding: 20px 20px;
+    border: 3px solid #2a3652;
+    border-radius: 20px;
+}
+.s3 .h1{
+    color: #2a3652;
+    text-align: center;
+    font-family: wb;
+    font-size: 70px;
+}
+.s3 h1{
+    color: #323a44;
+    font-family: pbold;
+    font-size: 35px;
+    margin: 5px 5px;
+}
+.s3 p{
+    color: #2a3652;
+    font-family: pmedium;
+    font-size: 20px;
+    margin: 15px 15px;
+}
+.s3 .card{
+    margin: 40px 40px;
+    padding: 20px 20px;
+    border: 3px solid #2a3652;
+    border-radius: 20px;
+}
+.s4 .h1{
+    color: #2a3652;
+    text-align: center;
+    font-family: wb;
+    font-size: 70px;
+}
+.s4 h1{
+    color: #323a44;
+    font-family: pbold;
+    font-size: 35px;
+    margin: 5px 5px;
+}
+.s4 p{
+    color: #2a3652;
+    font-family: pmedium;
+    font-size: 20px;
+    margin: 15px 15px;
+}
+.s4 .card{
+    margin: 40px 40px;
+    padding: 20px 20px;
+    border: 3px solid #2a3652;
+    border-radius: 20px;
+}
+.s5 .h1 {
+    color: #2a3652;
+    text-align: center;
+    font-family: wb;
+    font-size: 70px;
+}
+.s5 table {
+    border-collapse: collapse;
+    border: 4px #323a44 solid;
+    width: 65%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.s5 tr{
+    text-align: center;
+}
+.s5 .td{
+    text-align: left;
+}
+.s5 td{
+    text-align: center;
+    background-color: #b0c8e2;
+    border: 4px solid #323a44;
+    text-align: center;
+    padding: 10px;
+    font-family: pbold;
+    color: #323a44;
+}
+.s5 th{
+    border: #323a44 solid 4px;
+    text-align: center;
+    background-color: #b0c8e2;
+    font-size: 28px;
+    padding: 10px 10px;
+    font-family: pbold;
+    color: #323a44;
+}
+.s6 .h1{
+    color: #2a3652;
+    text-align: center;
+    font-family: wb;
+    font-size: 70px;
+}
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+.mySlides {
+    display: none;
+}
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+.prev:hover,
+.next:hover {
+    background-color: #2a3652;
+}
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+.active:hover {
+    background-color: #2a3652;
+}
+.fade {
+    animation-name: fade;
+    animation-duration: 1s;
+}
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+.s7 .h1{
+    color: #2a3652;
+    text-align: center;
+    font-family: wb;
+    font-size: 70px;
+}
+.s7 .cards{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 30px;
+    padding: 30px 30px;
+}
+.s7 .cards1{
+    background-color: #323a44;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    border-radius: 20px;
+}
+.cards img{
+    width: 10%;
+    transition: 0.3s;
+}
+.cards img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.s8 .h1{
+    color: #2a3652;
+    text-align: center;
+    font-family: wb;
+    font-size: 70px;
+}
+.iframe{
+    display: flex;
+    justify-content: center;
+}
+iframe{
+    border: 4px solid #323a44;
+    border-radius: 18px;
+    margin: 32px 32px;
+}
+.footer{
+    background-color: #323a44;
+}
+.footer p{
+    color: #c3d9f3;
+    font-family: pbold;
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 15px;
+}

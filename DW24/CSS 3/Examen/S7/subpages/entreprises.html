@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Seven Sec | Entreprises</title>
+    <link rel="stylesheet" href="../style.css" />
+    <link rel="shortcut icon" href="../images/7S.png" type="image/x-icon" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <style>
+      body {
+        background-color: #afbfcc;
+        min-height: 100vh;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 25px;
+        margin-top: 150px;
+        margin-bottom: -100px;
+      }
+      .content .grid .card {
+        background-color: #afbfcc;
+        border: 4px solid #0a1830;
+        border-radius: 18px;
+        width: 400px;
+        height: auto;
+        padding: 20px 20px;
+        box-shadow: 0 5px 25px rgb(0, 36, 53);
+        transition: 0.3s all ease;
+      }
+      .content .grid .card h2 {
+        padding: 10px 10px;
+        font-family: Poppins;
+        font-size: 35px;
+        text-align: center;
+        line-height: 45px;
+        color: #0a1830;
+      }
+      .content .grid .card p {
+        padding: 28px;
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 600;
+        text-align: justify;
+        color: #0a1830;
+      }
+      .content .grid .card i {
+        font-size: 50px;
+        color: #0a1830;
+      }
+      .content .grid .card:hover {
+        transform: scale(1.02);
+        transition: 0.3s all ease;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="../index.html" class="logo"
+        ><img src="../images/logo.png" alt="logo"
+      /></a>
+      <nav class="menu">
+        <a href="../index.html#apropos"><p>À propos</p></a>
+        <a href="../index.html#contact"><p>Contact</p></a>
+      </nav>
+    </header>
+    <section class="content">
+      <div class="grid">
+        <div class="card">
+          <h2>
+            Pressing pour HÔTEL<br /><br /><i class="fa-solid fa-hotel"></i>
+          </h2>
+          <p>
+            Nos propositions sont destinées à tous professionnel de
+            l'hôtellerie, de la restauration et des villages de vacances qui ont
+            un souci de pressing de tout type de lingerie
+          </p>
+        </div>
+        <div class="card">
+          <h2>
+            Pressing pour CLUB DE SPORT<br /><br /><i
+              class="fa-regular fa-futbol"
+            ></i>
+          </h2>
+          <p>
+            Quel que soit la taille du club, petit ou grand, individuel ou
+            d'équipe nous vous garantissons dans le délai de votre compétition
+            le pressing de tout votre matériel pour qu'il soit propre et vous
+            donne la motivation pour atteindre vos objectifs
+          </p>
+        </div>
+        <div class="card">
+          <h2>
+            Pressing pour USINE<br /><br /><i class="fa-solid fa-industry"></i>
+          </h2>
+          <p>
+            L’usine et son personnel trouveront aussi le temps de s'occuper
+            seulement de leur activité et améliorer leur productivité. Nous on
+            s'occupe du reste, nous vous garantissons la propreté de l'usine et
+            des vêtements du personnel
+          </p>
+        </div>
+        <div class="card">
+          <h2>
+            Pressing pour ENTREPRISE<br /><br /><i
+              class="fa-solid fa-building"
+            ></i>
+          </h2>
+          <p>
+            Il est de même pour toute entreprise qui souhaite améliorer son
+            image de propreté notamment les écoles. Nous pouvons étudier votre
+            demande et répondre a tous vos besoins dans le domaine
+          </p>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

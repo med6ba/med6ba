@@ -1,0 +1,38 @@
+h3 {
+	color:orange;
+}
+p{
+	font-family: verdana;
+	font-size: 14pt;
+	text-align: justify;
+	margin:40px;
+	background-color: orange;
+	padding: 10px;
+}
+.p1{
+	width: 800px;
+	background-color: lightgray;
+	border-top-left-radius: 10px;
+}
+.p2{
+	width: 900px;
+	background-color: yellow;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+.p3{
+	width: 1000px;
+	background-color: pink;
+	border-bottom-left-radius: 10px;
+	border-top-left-radius: 10px;
+}
+ul{
+	border:1px solid orange;
+	border-radius: 5px;
+}
+li{
+	padding-left: 9px;
+	margin-bottom: 9px;
+	list-style-type: none;
+	display: inline;
+}

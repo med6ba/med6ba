@@ -1,0 +1,48 @@
+@font-face{
+	font-family: "bali";
+	src: url("polices/Smitta Bali dafont.ttf");
+}
+
+h1{
+	font-family: bali;
+	text-align: center;
+	background-color: pink;
+	border-top-left-radius: 100%;
+	border-bottom-right-radius: 100%;
+	opacity: 0.75;
+}
+
+body{
+	background: url("images/fleur.jpg") no-repeat fixed center, url(images/rose-fleur.jpg);
+}
+
+.texte{
+	width: 300px;
+	border: 10px solid pink;
+	background-color: pink;
+	opacity: 0.75;
+	margin: auto;
+	padding: 10px;
+	text-align: justify;
+	padding: 10px;
+	margin-left: 100px;
+	box-shadow: 10px 20px 100px 25px black;
+	/*top right bottom left*/
+}
+
+.rose-rouge img{
+	width: 150px;
+}
+
+.rose-rouge{
+	position: fixed;
+	right: -40;
+	bottom: 0;
+	transform : rotate(-30deg);
+}
+
+
+/*Pour fixer une background sur une ercran en utilise:
+background-attachment: fixed;
+background-size: 100% 100%;
+*/

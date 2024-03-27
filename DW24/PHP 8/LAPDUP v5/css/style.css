@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.table {
+    width: 100%;
+}
+.colm {
+    width: 30px;
+}
+input{
+	margin-bottom: 10px;
+}
+.iconrouge{
+	color:gray;
+}
+.entete-list{
+display: flex; 
+justify-content: space-between;
+align-items: center;
+}
+.nbr{
+border: 1px solid green;
+padding: 10px;
+background: green;
+color: white;
+font-size: 14pt;
+height: 40px;
+width: 40px;
+text-align: center;
+border-radius: 5px;
+}
+.cledelete{
+width: 400px;
+text-align: center;
+border: 1px solid blue;
+padding: 20px;
+border-radius: 5px;
+margin: auto;
+}
+.authentification{
+width: 50%;
+margin: auto;
+}
+.authentification img{
+width: 50%;
+float: center;
+}
+
+.img-area {
+    position: relative;
+    width: 15%;
+    height: 15%;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.img-area .icon {
+font-size: 50px;
+}
+
+.img-area p {
+color: #999;
+}
+.img-area p span {
+font-weight: 600;
+}
+.img-area img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    z-index: 100;
+}
+.img-area::before {
+    content: attr(data-img);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .5);
+    color: #fff;
+    font-weight: 500;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+    opacity: 0;
+    transition: all .3s ease;
+    z-index: 200;
+}
+.img-area.active:hover::before {
+opacity: 1;
+}
+#liste {
+  background-color: gray; /* Couleur de fond du div */
+  padding: 10px; /* Espacement interne du div */
+  display: inline-block; /* Permet au div de s'adapter à la largeur du contenu */
+  width: 350px;
+    border-radius: 5px;
+
+}
+
+#liste ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* Supprime les marges par défaut */
+}
+
+#liste ul li a {
+  text-decoration: none;
+  display: block;
+  padding: 5px 5px;
+  border-radius: 5px;
+  transition: background-color 0.3s; /* Animation de transition */
+  color: white;
+}
+
+#liste ul li a:hover {
+  background-color: white; 
+  color:blue;
+}
+
+
+.navbar {
+    background-color: gray; /* Couleur de fond */
+    padding: 10px; /* Espacement interne */
+}
+
+.navbar-nav .nav-link {
+    color: #343a40; /* Couleur du texte */
+    border-radius: 5px; /* Arrondissement des coins */
+    padding: 10px 15px; /* Espacement du texte */
+    font-size: 16px; /* Taille de la police */
+}
+
+.navbar-nav .nav-link.active {
+    color: #007bff; /* Couleur du texte pour l'élément actif */
+    background-color: #fff; /* Couleur de fond pour l'élément actif */
+}
+
