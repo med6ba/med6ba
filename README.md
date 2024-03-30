@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @med6ba
+- 👀 I’m interested in web-dev
+- 🌱 I’m currently learning C for 1337 pool
+- 📫 You can reach me in socials as: med6ba
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm 18 years old
