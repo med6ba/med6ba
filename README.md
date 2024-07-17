@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **C**
 
+- 💻 I’m a pooler at **<a href = "https://x.com/1337FIL">1337</a>**
+
 - 📫 How to reach me **med6ba@gmail.com**
 
 - ⚡ Fun fact **I have 18 y.o**
