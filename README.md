@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Medba</h1>
-<h3 align="center">A passionate C developer from Morocco 🇲🇦</h3>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDC5F4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Medba;I'm+a+C+Developer;Be+Welcome!+ツ)
+
+![](https://komarev.com/ghpvc/?username=med6ba&style=flat-square)
+
+<h3 align="center">I'm based in Morocco 🇲🇦</h3>
 
 - 🌱 I’m currently learning **C**
 
@@ -16,3 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=header"/>
+</a>
