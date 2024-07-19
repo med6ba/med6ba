@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **med6ba@gmail.com**
 
-- ⚡ Fun fact ** I'm 18 years old**
+- ⚡ Fun fact **I'm 18 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
