@@ -8,7 +8,7 @@
 
 - 🌍 I'm based in **Morocco**
 
-- 💻 I’m a pooler at **<a href = "https://x.com/1337FIL">1337</a> (Part of <a href="https://x.com/42born2code">42</a> Coding school community)**
+- 💻 I’m a pooler at **<a href = "https://x.com/1337FIL">1337</a> (Part of <a href="https://x.com/42born2code">42</a> Network)**
 
 - 📫 How to reach me **med6ba@gmail.com**
 
