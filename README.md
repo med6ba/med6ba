@@ -58,4 +58,4 @@ Feel free to reach out and connect with me:
 <a href="https://www.youtube.com/@med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@med6ba" height="30" width="40" /></a>
 </p>
 
-<h2>Thanks for stopping by! Let's create something amazing together! 🚀</h2>
+<h1>Let's create something amazing together! 🚀</h1>
