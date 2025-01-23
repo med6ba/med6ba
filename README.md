@@ -1,4 +1,6 @@
-## Hi there, I'm Medba! 👋
+<h1>Hi there, I'm Medba! 👋</h1>
+
+---
 
 - Welcome to my GitHub profile!
 <br>
