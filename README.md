@@ -1,5 +1,5 @@
-<h1>Hi there, I'm Medba! 👋</h1>
 ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
+<h1>Hi there, I'm Medba! 👋</h1>
 
 Welcome to my GitHub profile!
 <br>
