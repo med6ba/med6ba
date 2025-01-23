@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Medba! 👋</h1>
+<h1>Hi there, I'm Medba! 👋</h1> ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
 
 Welcome to my GitHub profile!
 <br>
@@ -59,25 +59,3 @@ Feel free to reach out and connect with me:
 </p>
 
 <h1>Let's create something amazing together! 🚀</h1>
-
----
-
-## 📊 GitHub Stats
-
-![Medba's GitHub stats](https://github-readme-stats.vercel.app/api?username=med6ba&show_icons=true&theme=radical)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=med6ba&theme=radical)
-
-## 🐈‍⬛ Contribution Snake
-
-![Snake animation](https://github.com/med6ba/med6ba/blob/output/github-contribution-grid-snake.svg)
-
-## 👁️ Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
