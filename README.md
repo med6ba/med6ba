@@ -1,30 +1,10 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
 <h1>Hi there, I'm Medba! 👋</h1>
+# Welcome to my GitHub profile! 🌟
 
-Welcome to my GitHub profile!
-<br>
-I'm a passionate **UI/UX Designer**
-<br>
-A **Front-End Web Developer**
-<br>
-An avid **gamer**
-<br>
-Based in Tétouan/Morocco
-<br>
-At just 18 years old
-<br>
-I'm constantly pushing boundaries and exploring new opportunities in tech and design.
+I'm a passionate **UI/UX Designer** 🎨 and a **Front-End Web Developer** 💻, with a love for **gaming** 🎮! Based in **Tétouan, Morocco** 🇲🇦, I'm only **18 years old** but already pushing boundaries in tech and design 🚀.
 
----
-
-## 🚀 About Me
-
-- 🎨 **UI/UX Designer**: Crafting intuitive and visually appealing user interfaces.
-- 💻 **Front-End Developer**: Building responsive and interactive websites.
-- 🖥️ **WordPress Expert**: Creating dynamic websites.
-- 🧑‍🎓 **Student**: Learning Full-Stack Web Development at **ISMO Offshoring Tetouan**.
-- 🎮 **Gamer**: When I'm not coding or designing, you’ll find me gaming!
-- 🧑‍💻 **Xpooler at 1337**: Proud to be part of the **42 Network**!
+When I'm not crafting intuitive interfaces or building responsive websites, you can find me **gaming** or learning **Full-Stack Web Development** at **ISMO Offshoring Tetouan** 🧑‍🎓. Also, I'm a proud **Xpooler at 1337**, part of the **42 Network**! 🧑‍💻
 
 ---
 
