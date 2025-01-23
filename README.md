@@ -2,6 +2,8 @@
 <h1>Hi there, I'm Medba! 👋</h1>
 <h1>Welcome to my GitHub profile! 🌟</h1>
 
+---
+
 I'm a passionate **UI/UX Designer** 🎨 and a **Front-End Web Developer** 💻, with a love for **gaming** 🎮! <br>
 Based in **Tétouan, Morocco** 🇲🇦, I'm only **18 years old** but already pushing boundaries in tech and design 🚀. <br>
 When I'm not crafting intuitive interfaces or building responsive websites, you can find me **gaming** or learning **Full-Stack Web Development** at **ISMO Offshoring Tetouan** 🧑‍🎓. <br>
