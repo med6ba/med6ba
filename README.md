@@ -55,7 +55,7 @@ Feel free to reach out and connect with me:
 - **Email**: <a href="mailto:med6ba@gmail.com">med6ba@gmail.com</a>
 <p align="left">
 <a href="https://instagram.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med6ba" height="30" width="40" /></a>
-<a href="https://twitter.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="med6ba" height="30" width="40" /></a>
+<a href="https://x.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="med6ba" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@med6ba" height="30" width="40" /></a>
 </p>
 
