@@ -1,11 +1,17 @@
 # Hi there, I'm Medba! 👋
 
 Welcome to my GitHub profile!
+<br>
 I'm a passionate **UI/UX Designer**
+<br>
 A **Front-End Web Developer**
+<br>
 An avid **gamer**
+<br>
 Based in Tétouan/Morocco
+<br>
 At just 18 years old
+<br>
 I'm constantly pushing boundaries and exploring new opportunities in tech and design.
 
 ---
