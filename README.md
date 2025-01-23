@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate **UI/UX Designer**, **Front-End W
 
 ## 🚀 About Me
 
-- 🎨 **UI/UX Designer**: Crafting intuitive and visually appealing user interfaces using tools like **Figma** and **Canva**.
-- 💻 **Front-End Developer**: Building responsive and interactive websites with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
-- 🖥️ **WordPress Expert**: Creating dynamic websites with **WordPress** and **Elementor**.
+- 🎨 **UI/UX Designer**: Crafting intuitive and visually appealing user interfaces.
+- 💻 **Front-End Developer**: Building responsive and interactive websites.
+- 🖥️ **WordPress Expert**: Creating dynamic websites.
 - 🧑‍🎓 **Student**: Learning Full-Stack Web Development at **ISMO Offshoring Tetouan**.
 - 🎮 **Gamer**: When I'm not coding or designing, you’ll find me gaming!
 - 🧑‍💻 **Xpooler at 1337**: Proud to be part of the **42 Network**!
@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I'm a passionate **UI/UX Designer**, **Front-End W
 
 Here are the technologies and tools I frequently use:
 
-- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap
-- **UI/UX Design**: Figma, Canva
-- **Web Platforms**: WordPress, Elementor
-- **Version Control**: Git & GitHub
-- **Operating System**: Linux
+- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap.
+- **UI/UX Design**: Figma, Canva.
+- **Web Platforms**: WordPress, Elementor.
+- **Version Control**: Git & GitHub.
+- **Operating System**: Linux.
 
 ---
 
@@ -40,9 +40,9 @@ Here are the technologies and tools I frequently use:
 Feel free to reach out and connect with me:
 
 - **Email**: [med6ba@gmail.com](mailto:med6ba@gmail.com)
-- <p align="left">
-<a href="https://twitter.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="med6ba" height="30" width="40" /></a>
+<p align="left">
 <a href="https://instagram.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med6ba" height="30" width="40" /></a>
+<a href="https://twitter.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="med6ba" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@med6ba" height="30" width="40" /></a>
 </p>
 
