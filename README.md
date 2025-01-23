@@ -16,7 +16,7 @@ I'm constantly pushing boundaries and exploring new opportunities in tech and de
 
 ---
 
-## 🚀 About Me
+<h1>🚀 About Me</h1>
 
 - 🎨 **UI/UX Designer**: Crafting intuitive and visually appealing user interfaces.
 - 💻 **Front-End Developer**: Building responsive and interactive websites.
@@ -27,7 +27,7 @@ I'm constantly pushing boundaries and exploring new opportunities in tech and de
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<h1>🛠️ Tech Stack & Tools</h1>
 
 Here are the technologies and tools I frequently use:
 
@@ -39,7 +39,7 @@ Here are the technologies and tools I frequently use:
 
 ---
 
-## 🌟 Fun Facts
+<h1>🌟 Fun Facts</h1>
 
 - I'm always eager to learn and improve my skills.
 - I enjoy contributing to creative projects and collaborating with others.
@@ -47,7 +47,7 @@ Here are the technologies and tools I frequently use:
 
 ---
 
-## 📫 Let's Connect
+<h1>📫 Let's Connect</h1>
 
 Feel free to reach out and connect with me:
 
@@ -58,4 +58,4 @@ Feel free to reach out and connect with me:
 <a href="https://www.youtube.com/@med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@med6ba" height="30" width="40" /></a>
 </p>
 
-Thanks for stopping by! Let's create something amazing together! 🚀
+<h1>Thanks for stopping by! Let's create something amazing together! 🚀</h1>
