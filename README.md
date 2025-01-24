@@ -2,11 +2,11 @@
 <h1>Hi there, I'm Medba! 👋</h1>
 
 - **18 yo** tech enthusiast from **Tétouan, Morocco**.
-- Passionate **UI/UX Designer** 🎨.
-- Creative **Front-End Developer** 💻.
+- Passionate **UI/UX Designer**.
+- Creative **Front-End Developer**.
 - Avid **Gamer** 🎮.
-- **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a> Full-Stack WebDev Department 🧑‍🎓.
-- **Xpooler** at <a href="https://x.com/1337FIL">1337</a> part of the <a href="https://x.com/42born2code">42 Network</a> 🌍.
+- **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a> Full-Stack WebDev Department.
+- **Xpooler** at <a href="https://x.com/1337FIL">1337</a> part of the <a href="https://x.com/42born2code">42 Network</a>.
 
 ---
 
