@@ -1,12 +1,12 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
-<h1>Hi there, I'm <b>Medba</b>! 👋</h1>
+<h1>Hi there, I'm Medba! 👋</h1>
 
-**18 yo** tech enthusiast from **Tétouan, Morocco** 🇲🇦<br>
-Passionate **UI/UX Designer** 🎨<br>
-Creative **Front-End Developer** 💻<br>
-Avid **Gamer** 🎮<br>
-**Student** at ISMO Offshoring Tétouan, Full-Stack WebDev Department 🧑‍🎓<br>
-**Xpooler** at 1337, part of the 42 Network 🌍<br>
+- **18 yo** tech enthusiast from **Tétouan, Morocco** 🇲🇦<br>
+- Passionate **UI/UX Designer** 🎨<br>
+- Creative **Front-End Developer** 💻<br>
+- Avid **Gamer** 🎮<br>
+- **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a>, Full-Stack WebDev Department 🧑‍🎓<br>
+- **Xpooler** at <a href="https://x.com/1337FIL">1337</a>, part of the <a href="https://x.com/42born2code">42 Network</a> 🌍<br>
 
 ---
 
