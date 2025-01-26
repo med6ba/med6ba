@@ -6,7 +6,7 @@
 - Creative **Front-End Developer**.
 - **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a> Full-Stack WebDev Department.
 - **Xpooler** at <a href="https://x.com/1337FIL">1337</a> part of the <a href="https://x.com/42born2code">42 Network</a>.
-- Avid **Gamer** 🎮.
+- Avid **Gamer**.
 
 ---
 
