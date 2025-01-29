@@ -40,7 +40,6 @@ Feel free to reach out and connect with me:
   <a href="https://x.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="med6ba" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@med6ba" height="30" width="40" /></a>
   <a href="https://discord.gg/jtzbBmJDPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="med6ba" height="35" width="45" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="med6ba" height="35" width="45" /></a>
 </p>
 
 ---
