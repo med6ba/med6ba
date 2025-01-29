@@ -34,12 +34,13 @@ Here are the technologies and tools I frequently use:
 
 Feel free to reach out and connect with me:
 
-- **Email**: <a href="mailto:med6ba@gmail.com">med6ba@gmail.com</a>
+- **Email**: med6ba@gmail.com
 <p align="left">
-<a href="https://instagram.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med6ba" height="30" width="40" /></a>
-<a href="https://x.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="med6ba" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@med6ba" height="30" width="40" /></a>
-<a href="https://discord.gg/jtzbBmJDPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="med6ba" height="35" width="45" /></a>
+  <a href="https://instagram.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="med6ba" height="30" width="40" /></a>
+  <a href="https://x.com/med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="med6ba" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@med6ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@med6ba" height="30" width="40" /></a>
+  <a href="https://discord.gg/jtzbBmJDPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="med6ba" height="35" width="45" /></a>
+  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="med6ba" height="35" width="45" /></a>
 </p>
 
 ---
