@@ -50,5 +50,5 @@ Feel free to reach out and connect with me:
 </p>
 
 ---
-![My GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif)
+<iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="300" height=auto style="border-radius: 25px;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/leroypatterson-cat-glasses-CjmvTCZf2U3p09Cn0h">via GIPHY</a></p>
 <h1>Let's create something amazing together! 🚀</h1>
