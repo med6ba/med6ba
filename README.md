@@ -50,5 +50,5 @@ Feel free to reach out and connect with me:
 </p>
 
 ---
-
+![My GIF]([https://media.giphy.com/media/your-gif-link/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif))
 <h1>Let's create something amazing together! 🚀</h1>
