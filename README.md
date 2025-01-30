@@ -1,5 +1,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
-<h1>Hi there, I'm Medba! 👋</h1>
+<h1>Hi there, I'm Mohamed Ben Abdessadak! 👋</h1>
 
 - **18 yo** tech enthusiast from **Tétouan, Morocco**.
 - Passionate **UI/UX Designer**.
