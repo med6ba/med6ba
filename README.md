@@ -50,5 +50,5 @@ Feel free to reach out and connect with me:
 </p>
 
 ---
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif" width="300"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif" width="200" style="border-radius: 25px;"/>
 <h1>Let's create something amazing together! 🚀</h1>
