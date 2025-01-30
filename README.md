@@ -50,5 +50,5 @@ Feel free to reach out and connect with me:
 </p>
 
 ---
-<iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="300" height=auto style="border-radius: 25px;" frameBorder="0" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/your-gif-link/giphy.gif" width="300"/>
 <h1>Let's create something amazing together! 🚀</h1>
