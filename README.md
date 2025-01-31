@@ -57,4 +57,4 @@ Feel free to reach out and connect with me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=med6ba&theme=github)
