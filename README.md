@@ -51,13 +51,13 @@ Feel free to reach out and connect with me:
 
 ---
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif" width="200"/>
-<h1>Let's create something amazing together! 🚀</h1>`
+<h1>Let's create something amazing together! 🚀</h1>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=med6ba&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=med6ba&theme=react-dark)
 
 
