@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=yellow)
+![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=red)
 <h1>Hi there, I'm Mohamed Ben Abdessadak! 👋</h1>
 
 - **18 yo** tech enthusiast from **Tétouan, Morocco**.
