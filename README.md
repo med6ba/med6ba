@@ -15,9 +15,9 @@ Here are the technologies and tools I frequently use:
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) -->
 [![Bootstrap.css](https://img.shields.io/badge/Bootstrap.css-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+<!-- [![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) -->
 <br>
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/med6ba)
