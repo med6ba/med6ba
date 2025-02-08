@@ -26,6 +26,7 @@ Here are the technologies and tools I frequently use:
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
+[![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 <br>
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
