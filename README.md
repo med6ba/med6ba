@@ -1,17 +1,13 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
 <h1>Hi there, I'm Mohamed Ben Abdessadak! 👋</h1>
-
-- **18 yo** tech enthusiast from **Tétouan, Morocco**.
-- Passionate **UI/UX Designer**.
-- Creative **Front-End Developer**.
-- **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a> Full-Stack WebDev Department.
-- **Xpooler** at <a href="https://x.com/1337FIL">1337</a> part of the <a href="https://x.com/42born2code">42 Network</a>.
-- Avid **Gamer**.
-
+- **18 yo** tech enthusiast from **Tétouan, Morocco**
+- Passionate **UI/UX Designer**
+- Creative **Front-End Developer**
+- **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a> Full-Stack WebDev Department
+- **Xpooler** at <a href="https://x.com/1337FIL">1337</a> part of the <a href="https://x.com/42born2code">42 Network</a>
+- Avid **Gamer**
 ---
-
 ## 🛠️ Tech Stack & Tools
-
 Here are the technologies and tools I frequently use:
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -35,19 +31,13 @@ Here are the technologies and tools I frequently use:
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 
 ---
-
 ## 🌟 Fun Facts
-
 - I'm always eager to learn and improve my skills.
 - I enjoy contributing to creative projects and collaborating with others.
 - Gaming helps me unwind and inspires some of my creative work!
-
 ---
-
 ## 📫 Let's Connect
-
 Feel free to reach out and connect with me:
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:med6ba@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/jtzbBmJDPA)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/med6ba)
