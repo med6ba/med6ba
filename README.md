@@ -23,7 +23,7 @@ Here are the technologies and tools I frequently use:
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
-![Elementor](https://img.shields.io/badge/Elementor-%23D51271.svg?style=for-the-badge&logo=elementor&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
