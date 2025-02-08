@@ -46,6 +46,9 @@ Here are the technologies and tools I frequently use:
 Feel free to reach out and connect with me:
 
 [![Gmail](https://img.shields.io/badge/med6ba@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:med6ba@gmail.com)
+
+My platforms:
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/jtzbBmJDPA)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/med6ba)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/med6ba)
