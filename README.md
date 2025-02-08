@@ -1,12 +1,15 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
 <h1>Hi there, I'm Mohamed Ben Abdessadak! 👋</h1>
+
 - **18 yo** tech enthusiast from **Tétouan, Morocco**
 - Passionate **UI/UX Designer**
 - Creative **Front-End Developer**
 - **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a> Full-Stack WebDev Department
 - **Xpooler** at <a href="https://x.com/1337FIL">1337</a> part of the <a href="https://x.com/42born2code">42 Network</a>
 - Avid **Gamer**
+
 ---
+
 ## 🛠️ Tech Stack & Tools
 Here are the technologies and tools I frequently use:
 
@@ -31,11 +34,14 @@ Here are the technologies and tools I frequently use:
 [![Framer](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff)](#)
 
 ---
+
 ## 🌟 Fun Facts
 - I'm always eager to learn and improve my skills.
 - I enjoy contributing to creative projects and collaborating with others.
 - Gaming helps me unwind and inspires some of my creative work!
+
 ---
+
 ## 📫 Let's Connect
 Feel free to reach out and connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:med6ba@gmail.com)
@@ -46,5 +52,6 @@ Feel free to reach out and connect with me:
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/med6ba)
 
 ---
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif" width="150"/>
 <h1>Let's create something amazing together! 🚀</h1>
