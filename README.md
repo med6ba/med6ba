@@ -16,7 +16,6 @@ Here are the technologies and tools I frequently use:
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Bootstrap.css](https://img.shields.io/badge/Bootstrap.css-7952B3?logo=bootstrap&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 <br>
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/med6ba)
@@ -29,6 +28,8 @@ Here are the technologies and tools I frequently use:
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
+
+<!-- [![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) -->
 
 ---
 
