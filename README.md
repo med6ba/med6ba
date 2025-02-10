@@ -6,7 +6,6 @@
 - Passionate **UI/UX Designer**
 - **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a> Full-Stack WebDev Department
 - **Xpooler** at <a href="https://x.com/1337FIL">1337</a> part of the <a href="https://x.com/42born2code">42 Network</a>
-- Avid **Gamer**
 
 ---
 
@@ -39,7 +38,6 @@ Here are the technologies and tools I frequently use:
 ## 🌟 Fun Facts
 - I'm always eager to learn and improve my skills.
 - I enjoy contributing to creative projects and collaborating with others.
-- Gaming helps me unwind and inspires some of my creative work!
 
 ---
 
