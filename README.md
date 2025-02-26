@@ -15,7 +15,7 @@ Here are the technologies and tools I frequently use:
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Bootstrap.css](https://img.shields.io/badge/Bootstrap.css-7952B3?logo=bootstrap&logoColor=fff)](#)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 <br>
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
