@@ -33,6 +33,8 @@ Here are the technologies and tools I frequently use:
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&hide_progress=true&theme=dark)
+
 ---
 
 ## 🌟 Fun Facts
@@ -56,8 +58,6 @@ My SMs:
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/med6ba)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&hide_progress=true&theme=dark)
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif" width="150"/>
 <h1>Let's create something amazing together! 🚀</h1>
