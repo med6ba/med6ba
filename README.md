@@ -36,6 +36,8 @@ Here are the technologies and tools I frequently use:
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&hide_progress=true&theme=dark)
+
 ---
 
 ## 📫 Let's Connect
