@@ -2,9 +2,9 @@
 <h1>Hi there, I'm Mohamed Ben Abdessadak! 👋</h1>
 
 - **19 yo** tech enthusiast from **Tétouan, Morocco**
-- Creative & Passionate **Front-End Web Developer**
+- Creative & Passionate **Junior Front-End Web Developer**
 - **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a>
-- **Xpooler** at <a href="https://x.com/1337FIL">1337</a> part of the <a href="https://x.com/42born2code">42 Network</a>
+- **Xpooler** at <a href="https://x.com/1337FIL">1337</a>
 
 ---
 
