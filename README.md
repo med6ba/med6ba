@@ -37,6 +37,8 @@ Here are the technologies and tools I frequently use:
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white)
 -->
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&hide_progress=true&theme=dark)
 
 ---
