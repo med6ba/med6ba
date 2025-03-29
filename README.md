@@ -3,7 +3,7 @@
 
 - **19 yo** tech enthusiast from **Tétouan, Morocco**
 - Creative & Passionate **Junior Front-End Web Developer**
-- **Student** at <a href="https://www.facebook.com/ismo.tet/">ISMO Tétouan</a>
+- **Student** at <a href="ismo.ma">ISMO Tétouan</a>
 
 ---
 
