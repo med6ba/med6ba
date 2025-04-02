@@ -52,5 +52,6 @@ Feel free to reach out and connect with me:
 ---
 
 <h2>Let's create something amazing together! 🚀</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&hide_progress=true&theme=dark)
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif" width="150"/>
