@@ -58,4 +58,4 @@ Feel free to reach out and connect with me:
 
 <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
 
-![snake gif](https://github.com/med6ba/med6ba/blob/output/github-snake.svg)
+![snake gif](https://github.com/med6ba/med6ba/blob/output/github-snake-dark.svg)
