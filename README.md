@@ -60,4 +60,4 @@ Feel free to reach out and connect with me:
 
 
 
-![snake gif](https://github.com/med6ba/med6ba/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/med6ba/med6ba/blob/output/github-snake.svg)
