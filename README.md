@@ -44,7 +44,7 @@ Here are the technologies and tools I frequently use:
 
 ---
 
-## 📫 Let's Connect
+## 💬 Get in Touch
 Feel free to reach out and connect with me:
 
 [![Gmail](https://img.shields.io/badge/med6ba@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:med6ba@gmail.com)
