@@ -17,7 +17,6 @@ Here are the technologies and tools I frequently use:
 [![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=000)](#)
 [![PHP](https://img.shields.io/badge/-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=fff)](#)
-<br>
 [![Figma](https://img.shields.io/badge/-F24E1E?logo=figma&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white)](https://github.com/med6ba)
