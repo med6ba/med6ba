@@ -63,8 +63,8 @@ Here are the technologies and tools I frequently use:
 ## 💬 Get in Touch
 Feel free to reach out and connect with me:
 
-[![Gmail](https://img.shields.io/badge/med6ba@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:med6ba@gmail.com)
 <p>
+  <a href="mailto:med6ba@gmail.com"><img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white" alt="Gmail" width="50"/></a>
   <a href="https://linkedin.com/in/med6ba"><img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="50"/></a>
   <a href="https://discord.gg/jtzbBmJDPA"><img src="https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" width="50"/></a>
   <a href="https://instagram.com/medba.dev"><img src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="50"/></a>
