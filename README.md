@@ -10,6 +10,20 @@
 ## 🛠️ Tech Stack & Tools
 Here are the technologies and tools I frequently use:
 
+<img src="https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="100">
+<img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=fff" alt="CSS" width="100">
+<img src="https://img.shields.io/badge/-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" width="100">
+<img src="https://img.shields.io/badge/-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="Tailwind.css" width="100">
+<img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" width="100">
+<img src="https://img.shields.io/badge/-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP" width="100">
+<img src="https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=fff" alt="MySQL" width="100">
+<img src="https://img.shields.io/badge/-F24E1E?logo=figma&logoColor=white" alt="Figma" width="100">
+<img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=fff" alt="Git" width="100">
+<img src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="100">
+<img src="https://img.shields.io/badge/-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" width="100">
+
+
+<!--
 [![HTML](https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-1572B6?logo=css3&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/-7952B3?logo=bootstrap&logoColor=fff)](#)
@@ -20,7 +34,7 @@ Here are the technologies and tools I frequently use:
 [![Figma](https://img.shields.io/badge/-F24E1E?logo=figma&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white)](https://github.com/med6ba)
-[![Vercel](https://img.shields.io/badge/-%23000000.svg?logo=vercel&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/-%23000000.svg?logo=vercel&logoColor=white)](#) -->
 
 <!--
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/med6ba)
