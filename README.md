@@ -11,17 +11,17 @@
 Here are the technologies and tools I frequently use:
 
 <p>
-  <img src="https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="30"/>
-  <img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=fff" alt="CSS" width="30"/>
-  <img src="https://img.shields.io/badge/-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" width="30"/>
-  <img src="https://img.shields.io/badge/-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="Tailwind.css" width="30"/>
-  <img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" width="30"/>
-  <img src="https://img.shields.io/badge/-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP" width="30"/>
-  <img src="https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=fff" alt="MySQL" width="30"/>
-  <img src="https://img.shields.io/badge/-F24E1E?logo=figma&logoColor=white" alt="Figma" width="30"/>
-  <img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=fff" alt="Git" width="30"/>
-  <img src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="30"/>
-  <img src="https://img.shields.io/badge/-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" width="30"/>
+  <img src="https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="40"/>
+  <img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=fff" alt="CSS" width="40"/>
+  <img src="https://img.shields.io/badge/-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" width="40"/>
+  <img src="https://img.shields.io/badge/-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="Tailwind.css" width="40"/>
+  <img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" width="40"/>
+  <img src="https://img.shields.io/badge/-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP" width="40"/>
+  <img src="https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=fff" alt="MySQL" width="40"/>
+  <img src="https://img.shields.io/badge/-F24E1E?logo=figma&logoColor=white" alt="Figma" width="40"/>
+  <img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=fff" alt="Git" width="40"/>
+  <img src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="40"/>
+  <img src="https://img.shields.io/badge/-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" width="40"/>
 </p>
 
 <!--
@@ -64,13 +64,13 @@ Here are the technologies and tools I frequently use:
 Feel free to reach out and connect with me:
 
 <p>
-  <a href="mailto:medba.dev@gmail.com"><img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white" alt="Gmail" width="30"/></a>
-  <a href="https://linkedin.com/in/med6ba"><img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="30"/></a>
-  <a href="https://discord.gg/jtzbBmJDPA"><img src="https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" width="30"/></a>
-  <a href="https://instagram.com/med6ba"><img src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="30"/></a>
-  <a href="https://facebook.com/med6ba"><img src="https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" width="30"/></a>
-  <a href="https://www.youtube.com/@med6ba"><img src="https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" width="30"/></a>
-  <a href="https://x.com/med6ba"><img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" alt="X" width="30"/></a>
+  <a href="mailto:medba.dev@gmail.com"><img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white" alt="Gmail" width="40"/></a>
+  <a href="https://linkedin.com/in/med6ba"><img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="40"/></a>
+  <a href="https://discord.gg/jtzbBmJDPA"><img src="https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" width="40"/></a>
+  <a href="https://instagram.com/med6ba"><img src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="40"/></a>
+  <a href="https://facebook.com/med6ba"><img src="https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" width="40"/></a>
+  <a href="https://www.youtube.com/@med6ba"><img src="https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" width="40"/></a>
+  <a href="https://x.com/med6ba"><img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" alt="X" width="40"/></a>
 </p>
 
 <!-- [![Gmail](https://img.shields.io/badge/med6ba@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:med6ba@gmail.com)
