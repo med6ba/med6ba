@@ -11,7 +11,7 @@
 Here are the technologies and tools I frequently use:
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="30"/></a>
+  <img src="https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="30"/>
   <a href="#"><img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=fff" alt="CSS" width="30"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" width="30"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="Tailwind.css" width="30"/></a>
