@@ -14,7 +14,6 @@ Here are the technologies and tools I frequently use:
   <img src="https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="40"/>
   <img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=fff" alt="CSS" width="40"/>
   <img src="https://img.shields.io/badge/-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" width="40"/>
-  <img src="https://img.shields.io/badge/-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="Tailwind.css" width="40"/>
   <img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" width="40"/>
   <img src="https://img.shields.io/badge/-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP" width="40"/>
   <img src="https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=fff" alt="MySQL" width="40"/>
@@ -54,6 +53,8 @@ Here are the technologies and tools I frequently use:
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
+<img src="https://img.shields.io/badge/-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="Tailwind.css" width="40"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&hide_progress=true&theme=dark)
 -->
