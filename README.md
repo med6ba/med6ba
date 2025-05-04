@@ -67,7 +67,7 @@ Feel free to reach out and connect with me:
 <p>
   <a href="mailto:medba.dev@gmail.com"><img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white" alt="Gmail" width="40"/></a>
   <a href="https://linkedin.com/in/med6ba"><img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="40"/></a>
-  <a href="[https://discord.gg/jtzbBmJDPA](https://discord.gg/jtzbBmJDPA)"><img src="https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" width="40"/></a>
+  <a href="https://discord.gg/jtzbBmJDPA"><img src="https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" width="40"/></a>
   <a href="https://instagram.com/med6ba"><img src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="40"/></a>
   <a href="https://facebook.com/med6ba"><img src="https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" width="40"/></a>
   <a href="https://www.youtube.com/@med6ba"><img src="https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" width="40"/></a>
