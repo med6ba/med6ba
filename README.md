@@ -12,7 +12,7 @@ Here are the technologies and tools I frequently use:
 
 <p>
   <img src="https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="40"/>
-  <img src="https://img.shields.io/badge/-1572B6?logo=css3&logoColor=fff" alt="CSS" width="40"/>
+  
   [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
   <img src="https://img.shields.io/badge/-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap" width="40"/>
   <img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" width="40"/>
