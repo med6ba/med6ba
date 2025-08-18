@@ -21,6 +21,7 @@ Here are the technologies and tools I frequently use:
   <img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=fff" alt="Git" width="40"/>
   <img src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white" alt="GitHub" width="40"/>
   <img src="https://img.shields.io/badge/-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" width="40"/> -->
+
   [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
   [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
