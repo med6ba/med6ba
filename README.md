@@ -1,5 +1,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
-<h1>👋 Hi there, I'm Mohamed Ben Abdessadak!</h1>
+<h1>Hi there, I'm Mohamed Ben Abdessadak!</h1>
 
 - **19 yo** tech enthusiast from **Tétouan, Morocco**
 - Creative & Passionate **Junior Web Developer**
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 Here are the technologies and tools I frequently use:
 
 <p>
@@ -72,7 +72,7 @@ Here are the technologies and tools I frequently use:
 
 ---
 
-## 💬 Get in Touch
+## Get in Touch
 Feel free to reach out and connect with me:
 
 <p>
@@ -95,5 +95,5 @@ Feel free to reach out and connect with me:
 
 ---
 
-<h2>🚀 Let's create something amazing together!</h2>
+<h2>Let's create something amazing together!</h2>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhkOXR0bDJlMWljODdxbmI5azUwN3prbHRvNjhjNmRwemM2MnQ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif" width="150"/>
