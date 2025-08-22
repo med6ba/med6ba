@@ -66,9 +66,9 @@ Here are the technologies and tools I frequently use:
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 <img src="https://img.shields.io/badge/-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="Tailwind.css" width="40"/>
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&hide_progress=true&theme=dark)
--->
 
 ---
 
