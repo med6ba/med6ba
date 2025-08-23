@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Mohamed Ben Abdessadak!</h1>
 
 - **19 yo** tech enthusiast from **Tétouan, Morocco**
-- Creative & Passionate **Junior Web Developer**
+- Creative & Passionate **Web Developer**
 - **Student** at <a href="https://www.ismo.ma">ISMO Tétouan</a>
 
 ---
