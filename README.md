@@ -52,6 +52,7 @@ Here are the technologies and tools I frequently use:
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
 
 </p>
 
@@ -72,6 +73,8 @@ Feel free to reach out and connect with me:
   <a href="https://facebook.com/med6ba"><img src="https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" width="40"/></a>
   <a href="https://www.youtube.com/@med6ba"><img src="https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" width="40"/></a>
   <a href="https://x.com/med6ba"><img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" alt="X" width="40"/></a>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:medba.dev@gmail.com)
 </p>
 
 ---
