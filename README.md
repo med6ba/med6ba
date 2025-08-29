@@ -35,6 +35,7 @@ Here are the technologies and tools I frequently use:
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)](#)
@@ -75,6 +76,14 @@ Feel free to reach out and connect with me:
   <a href="https://x.com/med6ba"><img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" alt="X" width="40"/></a>
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:medba.dev@gmail.com)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mohamedbenabdessadak)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/jtzbBmJDPA)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/medba.dev)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/med6ba)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@med6ba)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/med6ba)
+  [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/med6ba)
+  
 </p>
 
 ---
