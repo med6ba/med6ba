@@ -34,16 +34,8 @@ Here are the technologies and tools I frequently use:
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
-</p>
+- **I currently work on Fedora Linux with KDE Plasma as my main operating system.**
 
----
-
-## Current Operating System
-
-Here is the operating system I currently use:
-
-<p>
-I currently work on Fedora with KDE Plasma based on Linux as my main operating system.
 </p>
 
 ---
