@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Mohamed Ben Abdessadak!</h1>
 
 - **19 yo** tech enthusiast from **Tétouan, Morocco**
-- Creative & Passionate **Web Developer**
+- Creative & Passionate **Full-Stack Web Developer**
 - **Student** at <a href="https://www.ismo.ma">ISMO Tétouan</a>
 
 ---
@@ -43,11 +43,7 @@ Here are the technologies and tools I frequently use:
 Here is the operating system I currently use:
 
 <p>
-
-[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
-[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-
+I currently work on Fedora with KDE Plasma based on Linux as my main operating system.
 </p>
 
 ---
