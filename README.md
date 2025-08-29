@@ -41,9 +41,12 @@ Here are the technologies and tools I frequently use:
 ## Current Operating System
 
 Here is the operating system I currently use:
+
+<p>
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
 with
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
+</p>
 
 ---
 
