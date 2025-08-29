@@ -67,23 +67,19 @@ Here are the technologies and tools I frequently use:
 Feel free to reach out and connect with me:
 
 <p>
-  <a href="mailto:medba.dev@gmail.com"><img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white" alt="Gmail" width="40"/></a>
+<!--   <a href="mailto:medba.dev@gmail.com"><img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white" alt="Gmail" width="40"/></a>
   <a href="https://linkedin.com/in/mohamedbenabdessadak"><img src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" width="40"/></a>
   <a href="https://discord.gg/jtzbBmJDPA"><img src="https://img.shields.io/badge/-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord" width="40"/></a>
   <a href="https://instagram.com/medba.dev"><img src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="40"/></a>
   <a href="https://facebook.com/med6ba"><img src="https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" width="40"/></a>
   <a href="https://www.youtube.com/@med6ba"><img src="https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" width="40"/></a>
-  <a href="https://x.com/med6ba"><img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" alt="X" width="40"/></a>
+  <a href="https://x.com/med6ba"><img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" alt="X" width="40"/></a> -->
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:medba.dev@gmail.com)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mohamedbenabdessadak)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/jtzbBmJDPA)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/medba.dev)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/med6ba)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@med6ba)
   [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/med6ba)
-  [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/med6ba)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/med6ba)
   
 </p>
 
