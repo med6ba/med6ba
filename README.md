@@ -19,6 +19,8 @@ Here are the technologies and tools I frequently use:
 
 - **Programming Languages, Frameworks, Libraries & RDMSs**
 
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
