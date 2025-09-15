@@ -24,7 +24,7 @@ Here are the technologies and tools I frequently use:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-- **I currently work on Fedora Linux with KDE Plasma as my main operating system.**
+<!-- - **I currently work on Fedora Linux with KDE Plasma as my main operating system.** -->
 
 </p>
 
