@@ -35,10 +35,6 @@ Here are the technologies and tools I frequently use:
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=med6ba&hide_progress=true&theme=dark)
-
----
-
 ## Get in Touch
 Feel free to reach out and connect with me:
 
