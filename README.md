@@ -1,5 +1,4 @@
-<!-- 
-![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
+ ![Visitor Count](https://komarev.com/ghpvc/?username=med6ba&color=blue)
 <h1>Hi there, I'm Mohamed Ben Abdessadak!</h1>
 
 - **20 yo** from **Tetouan, Morocco**
@@ -44,5 +43,3 @@ Feel free to reach out and connect with me:
   [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/medba_)
   
 </p>
-
--->
